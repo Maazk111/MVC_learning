@@ -1,4 +1,6 @@
 Saturn has many Moons
 Mimax
-Dione
+Tethys
+Phoebe
 Rhea
+Pan
